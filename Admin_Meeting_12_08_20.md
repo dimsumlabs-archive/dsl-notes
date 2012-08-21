@@ -21,7 +21,7 @@
 
 ## List of Volunteers for Workshop Taskforce
 * Jon
-* Chic
+* Chi
 * Tom
 * Alex L
 * Jonas
