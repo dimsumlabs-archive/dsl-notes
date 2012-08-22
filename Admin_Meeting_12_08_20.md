@@ -3,7 +3,7 @@
 * Form workshop taskforce: members commit to giving a workshop or a show and tell at least every 3 months.
 * All other member are expected to engage in facilitating tasks.
 * Give one of a few core workshops every week.
-* Set standard fee for workshops. HKD 200 + materials for non-members. No markup for members.
+* Set standard fee for workshops. HKD 200 + materials for non-members. No markup for members. The markup money is donated to the space.
 
 ## Financial
 * 20 full members to break even at current rate.
